@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+
+  <!-- FIREBASE CLOUD DATA -->
+  <script src="https://www.gstatic.com/firebasejs/5.5.2/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/5.5.2/firebase-database.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/5.7.2/firebase.js"></script>
+
+  <!-- P5.JS LIBRARIES -->
+  <script language="javascript" type="text/javascript" src="/js/flappybird-js/p5.js"></script>
+  <script language="javascript" src="/js/flappybird-js/p5.dom.js"></script>
+
+  <!-- JAVASCRIPT CODE -->
+  <script language="javascript" type="text/javascript" src="/js/flappybird-js/sketch.js"></script>
+  <script language="javascript" type="text/javascript" src="/js/flappybird-js/bird.js"></script>
+  <script language="javascript" type="text/javascript" src="/js/flappybird-js/pipe.js"></script>
+
+  <!-- STYLESHEETS -->
+  <link rel="stylesheet" href="/css/flappybird/style.css">
+
+  <!-- FONTS -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins">
+
+</head>
+
+<body>
+  <h1>Flappy Bird</h1>
+
+  <div id="game"> </div>
+
+  <div class="leaderboard">
+    <h2>Leaderboard</h2>
+    <div>
+      <ol class="table">
+        <li id="top1"></li>
+        <li id="top2"></li>
+        <li id="top3"></li>
+      </ol>
+    </div>
+
+  </div>
+
+  <script src="/js/flappybird-js/firebase.js" charset="utf-8"></script>
+</body>
+
+</html>

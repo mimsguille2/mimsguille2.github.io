@@ -1,0 +1,15 @@
+15/12/18
+Añadida una nueva sección "NOVEDADES" con un slider que muestra las imágenes más recientemente añadidas.
+
+16/12/18
+El modo seguro es ahora el modo por defecto. Las imágenes-censura de los modos seguro y muy seguro redireccionan ahora al clickarlas a la leyenda de Abascal.
+Cambiado el ACERCA DE por IMPORTANTE LEER para avisar a la gente del modo seguro activado por defecto y como cambiar de modo.
+
+
+17/12/18
+Añadido swicht para ocultar las imágenes de profesores sin cambiar de dirección, léase modo seguro más fancy.
+Eliminados modo_nomal y modo_muy_seguro.
+Añadidas nuevas imágenes.
+
+19/12/18
+Añadido un código para mostrar las imagenes más sensibles.
