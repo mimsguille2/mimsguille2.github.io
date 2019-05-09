@@ -32,6 +32,10 @@ body {
   margin:10px 0 0;
 }
 
+.abajo {
+  width:100%
+}
+
 hr {
   margin-top: 50px;
   width:60%;
