@@ -32,10 +32,6 @@ body {
   margin:10px 0 0;
 }
 
-.abajo {
-  width:100%
-}
-
 hr {
   margin-top: 50px;
   width:60%;
@@ -82,6 +78,17 @@ hr {
   flex: 25%;
   max-width: 25%;
   padding: 0 4px;
+}
+
+.anchas {
+    -webkit-flex: 100%;
+  flex: 100%;
+  max-width: 100%;
+  padding: 0 4px;
+}
+
+.abajo {
+  width:100%
 }
 
 .column img {
