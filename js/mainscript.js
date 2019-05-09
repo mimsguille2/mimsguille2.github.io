@@ -1,6 +1,6 @@
-var items = document.getElementsByClassName("noSecure");
+var items = document.getElementsByClassName("");
 var checkbox = document.getElementById('chbx');
-var secret = document.getElementsByClassName("nelSecure")
+var secret = document.getElementsByClassName("")
 
 //Hide when loaded
 for (var i=0; i < items.length; i++){
