@@ -1,0 +1,77 @@
+
+
+#multisonido {
+	margin-top: 50px;
+	padding-left: 230px;
+	padding-right: 285px;
+
+}
+#multisonido p {
+	font-size: 23pt;
+color: white;
+
+}
+#multisonido #mala_fama {
+	font-size: 20pt;
+	color: #c56a0f;
+	background-color: powderblue;
+	text-align: center;
+}
+
+
+#pena {
+	color: green;
+		text-align: center;
+}
+
+h1 {
+	color: green;
+		text-align: center;
+		margin-left: 43px;
+}
+
+h1 a {
+	color: green;
+}
+
+
+
+ul li {
+	text-decoration: none;
+	text-align: center;
+	list-style-type: none;
+	text-decoration-color: red;
+
+}
+
+#no_va {
+	margin-left: 120px;
+	margin-top: -14px;
+}
+
+a {
+		text-decoration: none;
+	text-align: center;
+		color: black;
+}
+
+#chema {
+	text-align: center;
+	background-image: url("../Pepe/c.jpg");
+padding: 10px;
+display: inline-block;
+
+}
+
+#pantuflo {
+text-align: center;
+	background-image: url("../Pepe/B.png");
+	padding-bottom: 545px;
+	margin-right: 85px;
+
+}
+#chema ul {
+	margin: 0;
+	padding: 0;
+}
+
