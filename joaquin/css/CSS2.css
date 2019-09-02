@@ -1,0 +1,61 @@
+
+html{
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+ul li{
+  list-style: none;}
+p {
+  text-align: center;
+  color: red;
+}
+div.veamos{
+border-color: green;
+border-width: 10px;
+ border-top: dotted yellow 5px;
+ border-bottom: dotted yellow 5px;
+ border-left: dashed green 10px;
+ border-right: dashed green 10px;
+ border-radius: 100% 43px 435px 133px;
+ width: 70%;
+ margin-left: 15%;
+position: absolute;
+z-index: 2;
+margin-top: 15%;
+margin left: 100%;}
+video {
+  position: fixed;
+    right: 0;
+    bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+    z-index: 1;
+}
+body{
+  position: relative;
+}
+form {
+margin-left: 37%;
+}
+
+#name{
+  background-color: gainsboro;
+  border-radius: 20px;
+  border: dashed #f0204954;
+
+}
+#email{
+  background-color: gainsboro;
+  border-spacing: 0px;
+  border-radius: 10pt 5pt 10pt 5pt;
+  border: dotted #f0204954;
+}
+
+#comenta{
+  border-spacing: 0px;
+  background-color: gainsboro;
+  border-radius: 5px;
+  border: dashed #f0204954;
+}
+
+/* Start http://www.cursors-4u.com */ * {cursor: url(http://cur.cursors-4u.net/people/peo-2/peo158.cur), auto !important;} /* End http://www.cursors-4u.com */
