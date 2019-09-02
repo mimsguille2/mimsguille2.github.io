@@ -1,0 +1,121 @@
+#cabeza {
+background-image: url("../i/a.jpg");
+text-align: center;
+width: 95%;
+margin-left: 2.5%;
+margin-right: 2.5%;
+border: dashed black;
+}
+#cabeza h1 {
+	padding-left: 35px;
+}
+
+
+
+html {background-image: url("../i/b.jpg");
+  background-size: cover;
+}
+
+
+#menu {
+	text-decoration: none;
+	color: red;
+    text-align:center;
+    padding: 10px;
+		background-color: salmon;
+		margin-left: 42.5%;
+		margin-right: 42.5%;
+		width: 15%;
+		border: groove  blue 15px;
+}
+#menu {
+
+    text-align:center;
+    padding: 10px;
+}
+#menu a{
+	text-decoration: none;
+	color: red;
+}
+
+#menu1 {
+	text-decoration: none;
+	color: red;
+    text-align:center;
+    padding: 10px;
+		background-color: salmon;
+		margin-left: 42.5%;
+		margin-right: 42.5%;
+		width: 15.5%;
+		border: groove  blue 15px;
+}
+#menu1 {
+
+    text-align:center;
+    padding: 10px;
+}
+#menu1 a{
+	text-decoration: none;
+	color: red;
+}
+
+
+#content1 {
+	text-align: justify;
+ font-size: 12pt;
+ margin: 1%;
+}
+#c1 {
+	padding-left: 0.5%;
+	background-color: white;
+
+	border-style: inset dotted outset dotted;
+}
+#c2 {
+	border-left:dashed aqua 5px;
+	border-top: dashed aqua 5px;
+	background-color: #76EE00;
+	padding-left: 0.5%;
+ padding-right: 0.6%;
+}
+#bitacora div {
+	background-image: url("../i/e.jpg");
+	background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+#bitacora p {
+	background-image: url("../i/c.jpg");
+	background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+p.carlo{
+	border: double yellow 5px;
+	padding: 10px;
+	font-size: 14pt;
+	text-align: right;
+ font-family: Impact, Charcoal, sans-serif;
+}
+
+pre.gandesa{
+text-align: center;
+color: red;
+font-size: 14pt;
+background-color:Cornsilk ;
+font-family: "Comic Sans MS", cursive, sans-serif;
+margin-left: 42%;
+margin-right: 38%;
+width: 20%;
+padding-bottom: 1%
+}
+
+div.joaq{
+	display: block;
+ margin-left: 32.5%;
+ margin-right: 17.5%;
+ width: 50%;
+}
+
+/* Start http://www.cursors-4u.com */ * {cursor: url(http://cur.cursors-4u.net/people/peo-2/peo158.cur), auto !important;} /* End http://www.cursors-4u.com */
