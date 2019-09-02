@@ -1,0 +1,58 @@
+body {
+	background-color: orange;
+}
+.grande { 
+	width: 96%;
+	margin-right: 2%;
+ 	margin-left: 2%;
+ }
+
+ .cabeza{
+ 	background-color: #000000;
+ 	height: 265px;
+ 	background-image: url("../imagenes/2.jpg");
+ 	background-repeat: no-repeat;
+ 	margin-bottom: 10px;
+ }
+ .menu {
+ 	margin-bottom: 10px;
+ 	background-color: #000000;
+ 	height: 50px;
+ 	 }
+
+
+ li{
+ 	list-style: none;
+ 	 display:inline;
+ }
+.e {
+	color: #ffffff;
+	text-decoration: none;
+	margin-left: 3px;
+	margin-right: 3px;
+	font-family: a;
+}
+
+.e:hover {
+	color: orange;
+}
+
+@font-face{
+	 font-family: a;
+  src: url(../fuentes/1.ttf);
+}
+ul {
+	background-color: #000000;
+	 		float: left;
+}
+
+.content {
+background-color: #ffffff;
+font-family: 12pt;
+text-align: justify;
+padding: 2%;
+}
+
+.pepito {
+	text-align:  center;
+}
