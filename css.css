@@ -3,6 +3,7 @@ aling:center;
 }
 .enlaces a{
 font-color:black;
+  text-decoration:none;
 }
 .juan div {
   background-color: beige;
