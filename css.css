@@ -1,11 +1,11 @@
 .soul{
 aling:center;
 }
-.enlaces a{
+.enlaces {
 font-color:black;
   text-decoration:none;
 }
-.juan div {
+.juan {
   background-color: beige;
   font-size: 18pt;
   border: groove red 5px; 
